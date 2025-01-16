@@ -62,8 +62,6 @@ spec:
           env:
             - name: DB_HOST
               value: postgres
-            - name: DB_PORT
-              value: "5432"
             - name: DB_USER
               value: fakeshop
             - name: DB_PASSWORD
