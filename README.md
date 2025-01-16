@@ -1,5 +1,6 @@
 # Fake Shop
 
+**Dockerhub** https://hub.docker.com/repository/docker/araujoajoao/fakeshop/general
 
 ## Variável de Ambiente
 DB_HOST	=> Host do banco de dados PostgreSQL.
