@@ -14,3 +14,17 @@ DB_NAME	=>	Nome do banco de dados PostgreSQL.
 DB_PORT	=>	Porta de conexão com o banco de dados PostgreSQL.
 
 
+
+##PROMETHEUS
+
+https://github.com/araujoajoao/fake-shop/blob/main/prometheus/Prometheus.jpeg
+
+https://github.com/araujoajoao/fake-shop/blob/main/prometheus/Prometheys2.jpeg
+
+
+
+## GRAFANA
+
+https://github.com/araujoajoao/fake-shop/blob/main/grafana/Grafana.jpeg
+
+https://github.com/araujoajoao/fake-shop/blob/main/grafana/Grafana2.jpeg
